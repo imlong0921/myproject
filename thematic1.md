@@ -10,8 +10,9 @@ int main(int argc, char *argv[]) {
 	printf("\n\t2: Mon vit nuong");
 	printf("\n\t3: Mon ga luoc");
 	printf("\n\t4: Mon lac rang");
-	
 };
+
+<!-- bai2 -->
 
 printf("\n*           *");
 	printf("\n*           *");
@@ -30,7 +31,7 @@ int main(int argc, char *argv[]) {
 }
 
 
-bai 4
+<!-- bai 4 -->
 
 int main(int argc, char *argv[]) {
 	int d,m,y;
@@ -40,7 +41,7 @@ int main(int argc, char *argv[]) {
 	printf("Ngay thang vua nhap la: %d/%d/%d (Ngay %d thang %d nam %d)",d,m,y,d,m,y);
 }
 
-bai5
+<!-- bai5 -->
 
 int main(int argc, char *argv[]) {
 	int d,m,y;
@@ -51,7 +52,7 @@ int main(int argc, char *argv[]) {
 }
 
 
-bai6
+<!-- bai6 -->
 
 int main(int argc, char *argv[]) {
 	int a,b,c;
