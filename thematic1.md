@@ -30,7 +30,7 @@ int main(int argc, char *argv[]) {
 }
 
 
-bai 4
+<!-- bai 4 -->
 
 int main(int argc, char *argv[]) {
 	int d,m,y;
@@ -40,7 +40,7 @@ int main(int argc, char *argv[]) {
 	printf("Ngay thang vua nhap la: %d/%d/%d (Ngay %d thang %d nam %d)",d,m,y,d,m,y);
 }
 
-bai5
+<!-- bai5 -->
 
 int main(int argc, char *argv[]) {
 	int d,m,y;
@@ -51,7 +51,7 @@ int main(int argc, char *argv[]) {
 }
 
 
-bai6
+<!-- bai6 -->
 
 int main(int argc, char *argv[]) {
 	int a,b,c;
